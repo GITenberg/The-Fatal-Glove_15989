@@ -1,0 +1,27 @@
+_repo: The-Fatal-Glove_15989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Augusta, Clara
+    alias: Trask, Clara Augusta Jones
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '6416'
+    url: http://www.gutenberg.org/2009/agents/6416
+description: ''
+gutenberg_issued: '2005-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Fatal Glove
+url: http://www.gutenberg.org/ebooks/15989
